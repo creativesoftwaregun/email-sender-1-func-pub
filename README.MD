@@ -1,3 +1,5 @@
+[![.NET](https://github.com/creativesoftwaregun/email-sender-1-func-pub/actions/workflows/dotnet.yml/badge.svg)](https://github.com/creativesoftwaregun/email-sender-1-func-pub/actions/workflows/dotnet.yml) [![codecov](https://codecov.io/gh/creativesoftwaregun/email-sender-1-func-pub/branch/master/graph/badge.svg?token=0T0T799ZOE)](https://codecov.io/gh/creativesoftwaregun/email-sender-1-func-pub)
+
 # Azure function with the following features 
 
 * uses dependency injection
