@@ -1,4 +1,4 @@
-[![.NET](https://github.com/creativesoftwaregun/email-sender-1-func-pub/actions/workflows/dotnet.yml/badge.svg)](https://github.com/creativesoftwaregun/email-sender-1-func-pub/actions/workflows/dotnet.yml) [![codecov](https://codecov.io/gh/creativesoftwaregun/email-sender-1-func-pub/branch/master/graph/badge.svg?token=0T0T799ZOE)](https://codecov.io/gh/creativesoftwaregun/email-sender-1-func-pub)
+[![.NET](https://github.com/creativesoftwaregun/email-sender-1-func-pub/actions/workflows/dotnet.yml/badge.svg)](https://github.com/creativesoftwaregun/email-sender-1-func-pub/actions/workflows/dotnet.yml) [![codecov](https://codecov.io/gh/creativesoftwaregun/email-sender-1-func-pub/branch/master/graph/badge.svg?token=0T0T799ZOE)](https://codecov.io/gh/creativesoftwaregun/email-sender-1-func-pub) [![CodeQL](https://github.com/creativesoftwaregun/email-sender-1-func-pub/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/creativesoftwaregun/email-sender-1-func-pub/actions/workflows/codeql-analysis.yml)
 
 # Azure function with the following features 
 
